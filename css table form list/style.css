@@ -1,0 +1,47 @@
+/* ul,li{
+    list-style: outside upper-roman;
+     
+} */
+/* table{
+    border-collapse:collapse  ;
+    width: 73%;
+    text-align: center;
+    height: 222PX;
+    margin: auto;
+    
+}
+td,th{ */
+    /* border: 2px solid black; */
+/* }
+th{
+    background-color:gray;
+    text-transform: uppercase;
+    color: aliceblue; 
+}
+td{
+    background-color: brown;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+td:hover{
+    background-color: black;
+    ba
+    color: aliceblue;
+    transform: scale(1.1);
+    transition: 0.5s;
+} */
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-transform: uppercase;
+
+}
+#p{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9huR7Nwtgjeu1BFGhvI0TjodW1FQexdxTEeP6yMjqA&s');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position:left;
+    padding-left: 20px;
+}

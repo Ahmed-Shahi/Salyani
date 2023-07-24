@@ -1,0 +1,30 @@
+#menu{
+    height: 880px;
+
+}
+#search{
+    height: 50px;
+
+}
+#rad{ 
+    
+    border-radius: 20px;
+
+}
+.a input{
+    height: 20px;
+    width: 90px;
+    align-items: center;
+}
+.tom{
+   height: 70px;
+   margin-top: 40px;
+      
+}
+body p{
+    color: aliceblue;
+}
+#tab{
+    height: 30px;
+
+}

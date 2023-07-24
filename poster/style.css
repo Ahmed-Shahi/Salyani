@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(198, 50, 50);
+}
+div{
+    background-color: aliceblue;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+#main{
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(234, 131, 131);
+}
+
+
+button{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+#tab{
+margin: 20px;
+padding-top: 20px;    
+}
+
+#b1{
+    margin-right:-4px;
+    font-size: larger;
+}
+#b2{
+    margin-right:-4px;
+    font-size: larger;
+
+}
+#b3{
+    font-size: larger;
+
+}
+p::first-line{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#p1{
+    text-align: center;
+    width: 600px;
+    margin-left: -150px;
+}
+#s{
+    font-size: 10px;
+    text-align: right;
+    word-spacing: 3px;
+}
+#para{
+    padding-left: 10px;
+    line-height: 10px;
+
+}
+#l{
+    text-align: center;
+    word-spacing: 50px;
+    text-transform: uppercase;
+}    
+#img1{
+   width: 590px;
+   height: 150px;
+}
+.img2{
+    width: 193px;
+    height: 125px;
+
+}
+#tu{
+    margin-left: -140px;
+}
+#wor{
+    font-size: smaller;
+}

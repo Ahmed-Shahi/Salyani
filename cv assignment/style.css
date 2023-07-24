@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h1{
+    background-color: brown;
+    color: rgb(223, 165, 98);
+}
+dt{
+    background-color: brown;
+    color: rgb(223, 165, 98);   
+}
+dd{
+    background-color: blueviolet;
+    color: beige;
+}
